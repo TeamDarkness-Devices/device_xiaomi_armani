@@ -8,5 +8,10 @@
     "repository": "neonkat/android_kernel_xiaomi_armani",
     "target_path": "kernel/xiaomi/armani",
     "branch": "cm-14.1"
+  },
+  {
+    "repository" : "TheMuppets/proprietary_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "branch"     : "cm-14.1"
   }  
 ]
