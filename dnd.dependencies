@@ -5,7 +5,7 @@
     "branch": "cm-14.1"
   },
   {
-    "repository": "neonkat/android_kernel_xiaomi_armani",
+    "repository": "Darkness-reDefined/android_kernel_xiaomi_armani",
     "target_path": "kernel/xiaomi/armani",
     "branch": "n"
   },
