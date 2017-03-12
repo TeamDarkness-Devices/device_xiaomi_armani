@@ -8,10 +8,5 @@
     "repository": "Darkness-reDefined/kernel_xiaomi_armani",
     "target_path": "kernel/xiaomi/armani",
     "branch": "n"
-  },
-  {
-    "repository" : "TheMuppets/proprietary_vendor_qcom_binaries",
-    "target_path": "vendor/qcom/binaries",
-    "branch"     : "cm-14.1"
-  }  
+  } 
 ]
