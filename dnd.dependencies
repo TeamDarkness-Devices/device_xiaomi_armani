@@ -1,8 +1,8 @@
 [
   {
-    "repository": "TheMuppets/proprietary_vendor_xiaomi",
+    "repository": "Darkness-reDefined/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "cm-14.1"
+    "branch": "n"
   },
   {
     "repository": "Darkness-reDefined/kernel_xiaomi_armani",
