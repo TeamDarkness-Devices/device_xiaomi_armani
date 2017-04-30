@@ -2,11 +2,11 @@
   {
     "repository": "Darkness-reDefined/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "n"
+    "branch": "n7x"
   },
   {
     "repository": "Darkness-reDefined/kernel_xiaomi_armani",
     "target_path": "kernel/xiaomi/armani",
-    "branch": "n"
+    "branch": "n7x"
   } 
 ]
