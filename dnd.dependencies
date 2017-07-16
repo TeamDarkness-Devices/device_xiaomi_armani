@@ -1,12 +1,12 @@
 [
   {
-    "repository": "Darkness-reDefined/vendor_xiaomi",
+    "repository" : "TheMuppets/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch": "n7x"
+    "branch"     : "cm-14.1"
   },
   {
-    "repository": "Darkness-reDefined/kernel_xiaomi_armani",
+    "repository" : "TeamDarkness-Devices/kernel_xiaomi_armani",
     "target_path": "kernel/xiaomi/armani",
-    "branch": "n7x"
+    "branch"     : "n7x"
   } 
 ]
